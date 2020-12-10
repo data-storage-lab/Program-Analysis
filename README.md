@@ -2,7 +2,7 @@
 
 Statically Inferring Performance Properties of Software Configurations (EuroSys'20)
 
-ScaleCheck: A Single-Machine Approach for Discovering Scalability Bugs in Large Distributed Systems (FAST'18)
+ScaleCheck: A Single-Machine Approach for Discovering Scalability Bugs in Large Distributed Systems (FAST'19)
 
 Failure Sketching: A Technique for Automated Root Cause Diagnosis of In-Production Failures (SOSP'15)
 
