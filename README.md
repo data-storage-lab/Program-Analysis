@@ -5,4 +5,4 @@
     - [Failure Sketching: A Technique for Automated Root Cause Diagnosis of In-Production Failures (SOSP'15)](https://git.ece.iastate.edu/data-storage-lab/papers/static-and-dynamic-program-analysis/-/blob/master/paper/15_failure_sketching.pdf)
     - [Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems (OSDI'14)](https://git.ece.iastate.edu/data-storage-lab/papers/static-and-dynamic-program-analysis/-/blob/master/paper/osdi14-paper-yuan.pdf)
 - Dynamic taint analysis
-    - [DECAF++: Elastic Whole-System Dynamic Taint Analysis](https://www.usenix.org/system/files/raid2019-davanian.pdf)(RAID'19)
+    - [DECAF++: Elastic Whole-System Dynamic Taint Analysis](https://www.usenix.org/system/files/raid2019-davanian.pdf) (RAID'19)
