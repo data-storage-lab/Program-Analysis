@@ -7,3 +7,6 @@
     - [Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems](https://git.ece.iastate.edu/data-storage-lab/papers/static-and-dynamic-program-analysis/-/blob/master/paper/osdi14-paper-yuan.pdf) (OSDI'14)
 - Dynamic taint analysis
     - [DECAF++: Elastic Whole-System Dynamic Taint Analysis](https://www.usenix.org/system/files/raid2019-davanian.pdf) (RAID'19)
+    - [All You Ever Wanted to Know About
+Dynamic Taint Analysis and Forward Symbolic Execution
+(but might have been afraid to ask)](https://git.ece.iastate.edu/data-storage-lab/papers/static-and-dynamic-program-analysis/-/blob/master/paper/10_symbolic.pdf) (S&P'10)
