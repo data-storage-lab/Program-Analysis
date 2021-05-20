@@ -16,4 +16,5 @@ Dynamic Taint Analysis and Forward Symbolic Execution
 - Program Analysis Tools
     - [LLVM](https://llvm.org/)
     - [DG](https://github.com/mchalupa/dg)
-        - [DG paper](https://git.ece.iastate.edu/data-storage-lab/dsl-techhub/static-and-dynamic-program-analysis/-/blob/master/paper/DG_paper.pdf) 
+        - [DG paper](https://git.ece.iastate.edu/data-storage-lab/dsl-techhub/static-and-dynamic-program-analysis/-/blob/master/paper/DG_paper.pdf)
+        - [Chopped Symbolic Execution](https://srg.doc.ic.ac.uk/files/papers/chopper-icse-18.pdf) (ICSE'18) 
