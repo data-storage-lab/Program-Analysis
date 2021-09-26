@@ -13,7 +13,7 @@
     - [All You Ever Wanted to Know About
 Dynamic Taint Analysis and Forward Symbolic Execution
 (but might have been afraid to ask)](https://git.ece.iastate.edu/data-storage-lab/papers/static-and-dynamic-program-analysis/-/blob/master/paper/10_symbolic.pdf) (S&P'10)
-q   - [Dynamic Taint Analysis for Automatic Detection, Analysis, and Signature Generation of Exploits on Commodity Software](https://www.valgrind.org/docs/newsome2005.pdf) (NDSS'05)
+    - [Dynamic Taint Analysis for Automatic Detection, Analysis, and Signature Generation of Exploits on Commodity Software](https://www.valgrind.org/docs/newsome2005.pdf) (NDSS'05)
 - Program Analysis Tools
     - [LLVM](https://llvm.org/)
     - [DG](https://github.com/mchalupa/dg)
