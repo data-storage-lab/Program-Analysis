@@ -14,6 +14,9 @@
 Dynamic Taint Analysis and Forward Symbolic Execution
 (but might have been afraid to ask)](https://git.ece.iastate.edu/data-storage-lab/papers/static-and-dynamic-program-analysis/-/blob/master/paper/10_symbolic.pdf) (S&P'10)
     - [Dynamic Taint Analysis for Automatic Detection, Analysis, and Signature Generation of Exploits on Commodity Software](https://www.valgrind.org/docs/newsome2005.pdf) (NDSS'05)
+- Program Slicing
+    - [Programmers use slices when debugging](https://dl.acm.org/doi/10.1145/358557.358577) (Communications of the ACM 1982)
+    - [Program slicing](https://www.cse.msu.edu/~cse870/Public/Homework/SS2003/HW5/p439-weiser.pdf) (ICSE 1981)
 - Program Analysis Tools
     - [LLVM](https://llvm.org/)
     - [DG](https://github.com/mchalupa/dg)
